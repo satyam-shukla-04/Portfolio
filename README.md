@@ -2,7 +2,7 @@
 
 Personal portfolio website of Satyam Shukla — AI Agent Developer & Python Developer.
 
-**Live site:** https://satyam-shukla-04.github.io/portfolio/
+**Live site:** [https://satyam-shukla-04.github.io/portfolio/](https://satyam-shukla-04.github.io/Portfolio/)
 
 ## About
 B.Tech AI & Data Science student (2027), Uka Tarsadia University.
